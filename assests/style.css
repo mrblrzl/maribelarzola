@@ -1,0 +1,51 @@
+body {
+  font-family: "Montserrat Alternates";
+  font-weight: normal;
+  color:  #282E34;
+}
+
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+h1 {
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  font-family: "Montserrat Alternates";
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Font awesome icons */
+.fab, .far {
+  padding: 30px;
+  width: 50px;
+  text-align: center;
+  margin: 5px 2px;
+  color:  #fff;
+}
+
+#jumboimg {
+  background-image: url(./images/desk.jpg);
+  background-size: cover;
+  padding-bottom: 30%;
+  padding-right: 75%;
+}
+
+.jumbotron {
+  margin: 0;
+  padding-top: 10px;
+}
+
+.bio{
+  background-color:  #282E34;
+  color: #fff;
+  margin-top: 0;
+}
+
+footer {
+  background-color: #282E34;
+  padding: 25px;
+  
+}
